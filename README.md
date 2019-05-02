@@ -142,3 +142,6 @@ Here are a few sources:
 
 - [Wikipedia Source 1](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films)
 - [AMC Theaters](https://www.amctheatres.com/amc-scene/the-best-way-to-rewatch-the-mcu)
+
+---
+*Disclaimer:* I in no way am an expert or professional on [Marvel](https://www.marvel.com/).  I claim no design or participation in development or inception of any of the characters, plots, or ideas therein.  All images, names, titles, and text are not my property.
