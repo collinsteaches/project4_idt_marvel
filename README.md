@@ -130,6 +130,12 @@ To navigate back and forth, use code similar to what is below.
 
 ---
 
+### One Sheets for Movies
+
+[Here](https://github.com/collinsteaches/project4_idt_marvel/tree/master/images) is the link for the images.  They are also in your [Repl.it](https://repl.it/) project repo in the `images` folder.
+
+---
+
 #### Sources
 
 Here are a few sources:
