@@ -1,7 +1,7 @@
 # Project 4 Information - The Marvel Cinematic Universe
 
 
-**Instructions:** Instructions to the exact development and details to the project will be delivered *May 3, 2019*.  Below you will find information that is to be included in your project including movies in sequential and time-line order, and characters.
+**Instructions:** Instructions to the exact development and details to the project are below and available in class.  Below you will find information that is to be included in your project including movies in sequential and time-line order, and characters.
 
 ---
 
@@ -11,6 +11,20 @@
 - Your will then design the remaining site.
 - It will be due after there is sufficient time in class for all students to complete it around the **Testing Schedule**.
 - You will vote for the movie that you would like to see in class.  Students who complete will be project will be given the opportunity to watch as has been the case in the past with projects like ***March Madness 2019***.
+
+---
+
+### What to do.
+
+Create a landing page that welcomes the user and allows the user to browse the Marvel movie collection in a few different ways.  You should list them alphabetically for the user to just directly to a movie page, create a carousel to show the movies in chronological order and in timeline order.
+
+Each movie page should have, 
+
+- The name of the movie.
+- The graphic for the movie. (found in the images folder)
+- The release date.
+- It's position in the timeline sequence.
+- Any characters from the list below in the movie.
 
 ---
 
@@ -135,6 +149,10 @@ To navigate back and forth, use code similar to what is below.
 [Here](https://github.com/collinsteaches/project4_idt_marvel/tree/master/images) is the link for the images.  They are also in your [Repl.it](https://repl.it/) project repo in the `images` folder.
 
 ---
+
+### Examples
+
+[Here](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp) is an example of a carousel to use from your movie timelines.
 
 #### Sources
 
